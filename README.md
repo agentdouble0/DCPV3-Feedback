@@ -8,4 +8,4 @@ Known Issues - https://pastebin.com/geTwp9A2
 
 Mod List - https://pastebin.com/qfT8YED0
 
-Curse Page - https://minecraft.curseforge.com/projects/da-chicken-pack-v-3
+Technic Page - https://www.technicpack.net/modpack/da-chickenpack-v3.1051006
